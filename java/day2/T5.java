@@ -7,9 +7,22 @@ public class T5 {
         System.out.print("Enter Number: ");
         int num = scc.nextInt();
 
-        int i = 0;
-        while (i<=num) {
-            System.out.println(num);
+        int a = 0, b = 1;
+
+        System.out.print(a + " ");
+        System.out.print(b + " ");
+
+        int i = 2;
+        while (i < num) {
+
+            int next = a + b;
+            a = b;
+            b = next;
+
+            System.out.print(next + " ");
+
+            i++;
         }
+        scc.close();
     }
 }
