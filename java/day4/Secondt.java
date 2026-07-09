@@ -1,4 +1,4 @@
-public class Second {
+public class Secondt {
     public static void main(String[] args) {
         int i = 10;
         while (i>0) {

@@ -1,4 +1,4 @@
-public class Task1{
+public class Sanu{
     public static void main(String[] args) {
         int [] [] arr = {
             {1,2,30},
