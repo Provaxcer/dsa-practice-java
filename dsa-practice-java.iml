@@ -11,6 +11,7 @@
       <sourceFolder url="file://$MODULE_DIR$/java/day6" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java/Inheritance" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java/Method" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java/Polymorphism" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
