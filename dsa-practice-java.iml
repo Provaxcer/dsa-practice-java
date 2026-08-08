@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/java/Inheritance" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java/Polymorphism" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java/Constructor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java/TCS Nqt" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
